@@ -1,13 +1,14 @@
 {
   "name": "timestamp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Accepts either a natural language date or a unix timestamp, returns both.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
+  "repository": "https://github.com/thomasbiz/timestamp-api",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
